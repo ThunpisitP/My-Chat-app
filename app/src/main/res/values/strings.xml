@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyChat</string>
+    <string name="myChat">My Chat</string>
+    <string name="login_button">Already have an account?</string>
+    <string name="create_button">Create Account</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login_label">LOGIN</string>
+    <string name="enter_email">Enter E-mail</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="create_label">Create Account</string>
+    <string name="displayname_label">Enter Display Name</string>
+    <string name="signup_label">SIGN UP</string>
+</resources>
