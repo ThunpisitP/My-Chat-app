@@ -10,4 +10,11 @@
     <string name="create_label">Create Account</string>
     <string name="displayname_label">Enter Display Name</string>
     <string name="signup_label">SIGN UP</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_pic_label">Change Profile Picture</string>
+    <string name="change_status_label">Change Status</string>
+    <string name="status_label">STATUS</string>
+    <string name="update_status_label">UPDATE STATUS</string>
 </resources>

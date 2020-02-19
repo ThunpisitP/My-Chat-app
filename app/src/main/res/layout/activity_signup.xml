@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SignupActivity"
+    tools:context=".activities.SignupActivity"
     >
 
     <ImageView
@@ -56,7 +56,7 @@
                 android:textSize="20sp" />
 
             <EditText
-                android:id="@+id/etEmail"
+                android:id="@+id/etStatus"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
