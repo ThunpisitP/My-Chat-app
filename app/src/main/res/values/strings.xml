@@ -17,4 +17,5 @@
     <string name="change_status_label">Change Status</string>
     <string name="status_label">STATUS</string>
     <string name="update_status_label">UPDATE STATUS</string>
+    <string name="send_message_label">SEND MESSAGE</string>
 </resources>
